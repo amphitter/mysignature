@@ -1,5 +1,5 @@
 # mysignature
-Welcome to the Canvas Signature Generator repository! This project provides a simple yet powerful web application where users can create personalized signatures by drawing directly on the canvas using their mouse or touchscreen. The signature generated can be utilized for various purposes such as signing documents digitally or adding a personal touch to online communications.
+Welcome to the Signature Generator repository! This project provides a simple yet powerful web application where users can create personalized signatures by drawing directly on the canvas using their mouse or touchscreen. The signature generated can be utilized for various purposes such as signing documents digitally or adding a personal touch to online communications.
 
 Features:
 
@@ -23,4 +23,4 @@ Contributions to improve this project are welcome! If you have any ideas for enh
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Enjoy creating your personalized signatures with the Canvas Signature Generator! If you find this project helpful, don't forget to star the repository. Thank you for your interest and support!
+Enjoy creating your personalized signatures with the Signature Generator! If you find this project helpful, don't forget to star the repository. Thank you for your interest and support!
