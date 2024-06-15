@@ -1,6 +1,5 @@
 # mysignature
 Welcome to the Signature Generator repository! This project provides a simple yet powerful web application where users can create personalized signatures by drawing directly on the canvas using their mouse or touchscreen. The signature generated can be utilized for various purposes such as signing documents digitally or adding a personal touch to online communications.
-
 Features:
 
 Intuitive Drawing Interface: The webpage offers a user-friendly canvas interface where users can draw their signature effortlessly.
