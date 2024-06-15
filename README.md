@@ -9,7 +9,6 @@ Save and Download: Users can save their signatures in various formats such as PN
 Customization Options: The tool provides options to customize the brush size, color, and other settings to tailor the signature according to individual preferences.
 Cross-browser Compatibility: Compatible with all modern web browsers, ensuring accessibility for a wide range of users.
 JavaScript Integration: Built with JavaScript for dynamic and interactive functionality, providing a smooth and efficient user experience.
-
 How to Use:
 
 Clone or download the repository to your local machine.
